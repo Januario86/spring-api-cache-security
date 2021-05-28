@@ -1,10 +1,9 @@
 package br.com.alura.forum.controller.form;
 
 import javax.validation.constraints.NotEmpty;
+import javax.validation.constraints.NotNull;
 
 import org.hibernate.validator.constraints.Length;
-
-import com.sun.istack.NotNull;
 
 import br.com.alura.forum.modelo.Topico;
 import br.com.alura.forum.repository.TopicoRepository;
