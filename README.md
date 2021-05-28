@@ -1,10 +1,8 @@
-# Spring-Boot-API-REST
-Spring Boot API REST: Construa uma API | Alura Cursos
-
+# Spring Boot API Rest: Segurança da API, Cache e Monitoramento
 
 > Requisitos Básicos
 
-1. [Java Development Kit(JDK) - 1.8 ou superior](https://www.oracle.com/java/technologies/javase-downloads.html)
+1. [Java Development Kit(JDK) - 1.8+](https://www.oracle.com/java/technologies/javase-downloads.html)
 2. [Intellij IDE ou Eclipse, NetBeans qq uma de sua preferência rs](https://www.jetbrains.com/idea/download/)
 3. [Postman](https://www.postman.com/) 
 
